@@ -17,3 +17,5 @@ python main.py <your-pdf-file-path>
 ```
 
 如果你没有提供PDF文件的路径，那么脚本将默认处理名为sample.pdf的文件。# PDF-Processing-Project
+
+这暂时只是一个基础的版本，后续会做更多的调整
